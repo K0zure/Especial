@@ -1,0 +1,238 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1557" measuredH="616" mockupW="1508" mockupH="614">
+  <controls>
+    <control controlID="35" controlTypeID="__group__" x="522" y="2" w="470" h="502" measuredW="470" measuredH="502" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="470" h="502" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Quest_Oficiales%0Ahttp%3A//Questoficiales.ro.com/home</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="71" w="470" h="406" measuredW="1200" measuredH="900" zOrder="1" locked="false" isInGroup="35">
+          <controlProperties>
+            <src>../../../../AppServ/www/Pagina_Especial/Imagenes/ragnaroksesion.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="134" y="81" w="-1" h="-1" measuredW="217" measuredH="21" zOrder="2" locked="false" isInGroup="35">
+          <controlProperties>
+            <color>16777215</color>
+            <text>BIENVENIDO%20A%20QUEST_OFICIALES</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="402" y="71" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="3" locked="false" isInGroup="35">
+          <controlProperties>
+            <color>16777215</color>
+            <text>USUARIO</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="15" y="120" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="4" locked="false" isInGroup="35">
+          <controlProperties>
+            <color>16777215</color>
+            <text>KHIEL%20ROBOT%20FACTORY</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="50" y="149" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="35">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="177" y="120" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="6" locked="false" isInGroup="35">
+          <controlProperties>
+            <color>16777215</color>
+            <text>THOR%20VOLCANO</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="190" y="149" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="35">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="300" y="120" w="-1" h="-1" measuredW="105" measuredH="21" zOrder="8" locked="false" isInGroup="35">
+          <controlProperties>
+            <color>16777215</color>
+            <text>LOST%20CHILDREN</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="314" y="149" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="35">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="43" y="270" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="10" locked="false" isInGroup="35">
+          <controlProperties>
+            <color>16777215</color>
+            <text>LOST%20PUPPYS</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="177" y="270" w="-1" h="-1" measuredW="100" measuredH="21" zOrder="11" locked="false" isInGroup="35">
+          <controlProperties>
+            <color>16777215</color>
+            <text>WANABA%20CANDY</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="294" y="270" w="-1" h="-1" measuredW="138" measuredH="21" zOrder="12" locked="false" isInGroup="35">
+          <controlProperties>
+            <color>16777215</color>
+            <text>MOSCOVIA%20DUNGEON</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="50" y="306" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="13" locked="false" isInGroup="35">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="190" y="306" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="35">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="314" y="306" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="15" locked="false" isInGroup="35">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="43" controlTypeID="__group__" x="1007" y="2" w="550" h="614" measuredW="550" measuredH="614" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="550" h="614" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="43">
+          <controlProperties>
+            <text>Quest_oficiales%0Ahttp%3A//Questoficiales.ro.com/khiel_robot_factory</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="73" w="550" h="513" measuredW="1200" measuredH="900" zOrder="1" locked="false" isInGroup="43">
+          <controlProperties>
+            <src>../../../../AppServ/www/Pagina_Especial/Imagenes/ragnaroksesion.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="202" y="80" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="2" locked="false" isInGroup="43">
+          <controlProperties>
+            <color>16777215</color>
+            <text>KHIEL%20ROBOT%20FACTORY</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="202" y="109" w="147" h="127" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="43">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::TextArea" x="69" y="251" w="412" h="64" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="43">
+          <controlProperties>
+            <text>Primero%20lo%20primero%2C%20nos%20dirigimos%20a%20la%20ciudad%20de%20Veins%2C%20despues%20de%20estar%20en%20el%20centro%2C%20nos%20dirigimos%20a%20la%20parte%20inferior%20izquierda%20y%20entramos%20al%20local%20que%20se%20muestra%20en%20la%20siguiente%20imagen</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="202" y="324" w="147" h="127" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="43">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="69" y="473" w="412" h="94" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="43">
+          <controlProperties>
+            <text>Luego%20hablamos%20con%20el%20due%F1o%20del%20lugar%2C%20seleccionamos%20la%20opcion%20%22can%20i%20help%20you%3F%22%20luego%20de%20leer%20o%20brincarse%20lo%20que%20les%20dice%2C%20aceptan%20en%20ayudarlo%2C%20les%20dara%20el%20siguiente%20item%20%22exotic%20drink%22%20Una%20vez%20que%20les%20da%20esto%2C%20salimos%20del%20lugar%20y%20busncamos%20un%20warp%20y%20nos%20dirigimos%20en%20la%20seccion%20dungeons%20a%20%22Khiel%20robot%20factory%22...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="45" controlTypeID="__group__" x="49" y="2" w="458" h="502" measuredW="458" measuredH="502" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="458" h="502" measuredW="458" measuredH="502" zOrder="1" locked="false" isInGroup="45">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="458" h="502" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Quest_Oficiales%0Ahttp%3A//Questoficiales.ro.com</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="95" y="93" w="-1" h="-1" measuredW="257" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Necesitas%20cuenta%20para%20acceder%20a%20la%20pagina</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="46" y="127" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Usuario</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="35" y="157" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Contrase%F1a</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="111" y="124" w="207" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="0">
+              <controlProperties>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="111" y="154" w="207" h="-1" measuredW="79" measuredH="26" zOrder="5" locked="false" isInGroup="0">
+              <controlProperties>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="157" y="185" w="-1" h="-1" measuredW="101" measuredH="27" zOrder="6" locked="false" isInGroup="0">
+              <controlProperties>
+                <menuIcon>false</menuIcon>
+                <text>Iniciar%20sesi%F3n</text>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="103" y="241" w="-1" h="-1" measuredW="195" measuredH="21" zOrder="7" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>%BFNo%20estas%20registrado%3F%20Registrate</text>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="35" y="277" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="8" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Usuario</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="35" y="352" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="9" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Contrase%F1a</text>
+              </controlProperties>
+            </control>
+            <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="15" y="388" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="10" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Confirmar%20contrase%F1a</text>
+              </controlProperties>
+            </control>
+            <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="15" y="313" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="11" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Correo%20electronico</text>
+              </controlProperties>
+            </control>
+            <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="111" y="274" w="207" h="-1" measuredW="79" measuredH="26" zOrder="12" locked="false" isInGroup="0">
+              <controlProperties>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="111" y="349" w="207" h="-1" measuredW="79" measuredH="26" zOrder="13" locked="false" isInGroup="0">
+              <controlProperties>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="157" y="385" w="207" h="-1" measuredW="79" measuredH="26" zOrder="14" locked="false" isInGroup="0">
+              <controlProperties>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="132" y="310" w="207" h="-1" measuredW="79" measuredH="26" zOrder="15" locked="false" isInGroup="0">
+              <controlProperties>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="165" y="427" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="16" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Registrarse</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="74" w="451" h="400" measuredW="1920" measuredH="1080" zOrder="0" locked="false" isInGroup="45">
+          <controlProperties>
+            <src>../../../../AppServ/www/Pagina_Especial/Imagenes/ragnaroklogin.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
